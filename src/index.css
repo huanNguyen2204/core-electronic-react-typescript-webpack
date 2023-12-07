@@ -1,0 +1,14 @@
+/* Tailwind config */
+/* Discomment bellow and keep on this line to enable tailwindcss */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, 'Manrope', BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
